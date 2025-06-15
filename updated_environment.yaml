@@ -1,0 +1,28 @@
+name: madePractical
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.21
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - pip
+  - pip:
+    - flask
+    - flask-cors
+    - cvxpylayers
+    - diffcp
+    - dccp
+    - guppy3
+    - numba
+    - torch==1.13.1

@@ -1,0 +1,6 @@
+models/*
+financial_distress_data/*
+card_fraud_dataset/*
+default_risk_dataset/*
+tip_spam_data/*
+!models/FINAL
