@@ -1,3 +1,10 @@
+# my reproduction
+
+* [unkown cost function experiment](./strategicClassification-RobustnessAroundCost.ipynb)
+** modified: a non-strategic ppo classifier.
+
+
+
 # Strategic classification made practical
 
 * Strategic classification:  the problem of learning in settings where users can strategically modify their features to improve outcomes.
