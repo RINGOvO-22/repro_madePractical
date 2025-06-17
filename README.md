@@ -1,7 +1,7 @@
 # my reproduction
 
 * [unkown cost function experiment](./strategicClassification-RobustnessAroundCost.ipynb)
-** modified: a non-strategic ppo classifier.
+    * modified: a non-strategic ppo classifier.
 
 
 
